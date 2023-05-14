@@ -1,8 +1,4 @@
 #### Card Game##########################################################
-# - Create a Deck of cards.
-# - Create 4 players (P1, P2, P3, P4)
-# - Divided all cards to 4 players.
-# - Assume you are P1, print the hand of P1.
 # - The game has 13 rounds:
 #     - Each player plays 1 card.
 #     - The player with highest card wins.
